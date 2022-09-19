@@ -19,4 +19,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gustavorh&show_icons=true&locale=en&layout=compact&theme=dracula" alt="gustavorh" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gustavorh&show_icons=true&locale=en" alt="gustavorh" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gustavorh&show_icons=true&locale=en&theme=dracula" alt="gustavorh" /></p>
