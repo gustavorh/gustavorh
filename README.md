@@ -3,8 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gustavorh&label=Views&color=blue&style=plastic" alt="Visitors" /> </p>
 
-
-## :book: About Me 
+## :book: About Me
 
 - 🌱 I’m currently learning **C, Java & JavaScript**
 
@@ -13,6 +12,7 @@
 - 📫 How to reach me **gus@gustavorh.dev**
 
 ## 🛠️ Languages and Tools
+
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
@@ -35,16 +35,17 @@
 - 🌱 I'm currently taking fourth semester of Civil Engineer.
 
 ## 📫 Contact Me:
+
 You can reach me at the following platforms linked below!
 
 [<img src="https://cdn.jsdelivr.net/npm/simple-icons@7.12.0/icons/linkedin.svg" height="40em" align="center" alt="Connect with me @ LinkedIn!" title="Connect with me @ LinkedIn!"/>](https://www.linkedin.com/in/greyesh/)
-[<img src="https://cdn.jsdelivr.net/npm/simple-icons@7.12.0/icons/github.svg" height="40em" align="center" alt="Connect with me @ GitHub!" title="Connect with me @ GitHub!"/>](https://www.instagram.com/h.s.z_11/)
+[<img src="https://cdn.jsdelivr.net/npm/simple-icons@7.12.0/icons/github.svg" height="40em" align="center" alt="Connect with me @ GitHub!" title="Connect with me @ GitHub!"/>](https://github.com/gustavorh)
 [<img src="https://cdn.jsdelivr.net/npm/simple-icons@7.12.0/icons/gmail.svg" height="45em" align="center" alt="Connect with me @ Gmail!" title="Connect with me @ Gmail!"/>](mailto:gustavorh@dev.net)
 
 ## 📊 GitHub Stats
 
 | <a href="https://github.com/gustavorh"><img align="center" src="https://github-readme-stats.vercel.app/api?username=gustavorh&show_icons=true&include_all_commits=true&count_private=true&theme=algolia" alt="Hussain's github stats" /></a> | <a href="https://github.com/gustavorh"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavorh&langs_count=10&theme=algolia&layout=compact" /></a> |
-| ------------- | ------------- |
+| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 
 <details align="center">
   <summary>GitHub Trophies 🏆</summary>
