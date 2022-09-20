@@ -1,21 +1,55 @@
 <h1 align="center">Hi 👋, I'm Gustavo.</h1>
 <h3 align="center">A passionate backend and desktop applications developer from Chile.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=gustavorh&label=Profile%20views&color=0e75b6&style=flat" alt="gustavorh" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=hussain03&label=Views&color=blue&style=plastic" alt="Visitors" /> </p>
+
+
+## :book: About Me 
 
 - 🌱 I’m currently learning **C, Java & JavaScript**
 
-- 👨‍💻 All of my projects are available at [gustavorh.dev](gustavorh.dev)
+- 👨‍💻 All of my projects are available at [My GitHub](https://github.com/gustavorh)
 
 - 📫 How to reach me **gus@gustavorh.dev**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/greyesh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="greyesh" height="30" width="40" /></a>
+## 🛠️ Languages and Tools
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
+![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;
+![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=c%2B%2B&logoColor=A8B9CC)&nbsp;
+![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
+
+![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
+![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
+
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
+
+<img align="right" alt="gif" src="https://raw.githubusercontent.com/hussaino03/hussaino03/master/coding.gif" width="380" height="250" />
+
+## 🤔 What I'm currently doing...
+
+- 🔭 I'm currently learning advanced Java and Python.
+- 🌱 I'm currently taking fourth semester of Civil Engineer.
+
+## 📫 Contact Me:
+You can reach me at the following platforms linked below!
+
+[<img src="https://cdn.jsdelivr.net/npm/simple-icons@7.12.0/icons/linkedin.svg" height="40em" align="center" alt="Connect with me @ LinkedIn!" title="Connect with me @ LinkedIn!"/>](https://www.linkedin.com/in/greyesh/)
+[<img src="https://cdn.jsdelivr.net/npm/simple-icons@7.12.0/icons/github.svg" height="40em" align="center" alt="Connect with me @ GitHub!" title="Connect with me @ GitHub!"/>](https://www.instagram.com/h.s.z_11/)
+[<img src="https://cdn.jsdelivr.net/npm/simple-icons@7.12.0/icons/gmail.svg" height="45em" align="center" alt="Connect with me @ Gmail!" title="Connect with me @ Gmail!"/>](mailto:gustavorh@dev.net)
+
+## 📊 GitHub Stats
+
+| <a href="https://github.com/hussaino03/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=gustavorh&show_icons=true&include_all_commits=true&count_private=true&theme=algolia" alt="Hussain's github stats" /></a> | <a href="https://github.com/hussaino03/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavorh&langs_count=10&theme=algolia&layout=compact" /></a> |
+| ------------- | ------------- |
+
+<details align="center">
+  <summary>GitHub Trophies 🏆</summary>
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy" target="_blank">
+    <img src="https://github-profile-trophy.vercel.app/?username=hussaino03&column=4&margin-w=5&margin-h=5&theme=darkhub"/>
+  </a>
 </p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
-
-<div><img style="height: auto; width: 40%;" class="img" src="https://github-readme-stats.vercel.app/api?username=gustavorh&theme=dracula&show_icons=true&include_all_commits=true&hide_border=true" /></div>
-<div><img style="height: auto; width: 40%;" class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavorh&theme=dracula&langs_count=8&layout=compact&hide_border=true" /></div>
+</details>
