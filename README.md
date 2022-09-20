@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Gustavo.</h1>
 <h3 align="center">A passionate backend and desktop applications developer from Chile.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hussain03&label=Views&color=blue&style=plastic" alt="Visitors" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=gustavorh&label=Views&color=blue&style=plastic" alt="Visitors" /> </p>
 
 
 ## :book: About Me 
