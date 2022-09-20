@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Gustavo.</h1>
 <h3 align="center">A passionate backend and desktop applications developer from Chile.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=gustavorh&label=Views&color=blue&style=plastic" alt="Visitors" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=hussain03&label=Views&color=blue&style=plastic" alt="Visitors" /> </p>
 
 
 ## :book: About Me 
@@ -13,12 +13,13 @@
 - 📫 How to reach me **gus@gustavorh.dev**
 
 ## 🛠️ Languages and Tools
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;
-![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=c%2B%2B&logoColor=A8B9CC)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
+![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=c&logoColor=A8B9CC)&nbsp;
+![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=c%2B%2B&logoColor=A8B9CC)&nbsp;
+![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;
 
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
