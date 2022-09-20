@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Gustavo.</h1>
 <h3 align="center">A passionate backend and desktop applications developer from Chile.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hussain03&label=Views&color=blue&style=plastic" alt="Visitors" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=gustavorh&label=Views&color=blue&style=plastic" alt="Visitors" /> </p>
 
 
 ## :book: About Me 
@@ -27,7 +27,7 @@
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 
-<img align="right" alt="gif" src="https://raw.githubusercontent.com/hussaino03/hussaino03/master/coding.gif" width="380" height="250" />
+<img align="right" alt="gif" src="https://raw.githubusercontent.com/gustavorh/gustavorh/main/img/coding.gif" width="380" height="250" />
 
 ## 🤔 What I'm currently doing...
 
@@ -43,14 +43,14 @@ You can reach me at the following platforms linked below!
 
 ## 📊 GitHub Stats
 
-| <a href="https://github.com/hussaino03/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=gustavorh&show_icons=true&include_all_commits=true&count_private=true&theme=algolia" alt="Hussain's github stats" /></a> | <a href="https://github.com/hussaino03/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavorh&langs_count=10&theme=algolia&layout=compact" /></a> |
+| <a href="https://github.com/gustavorh"><img align="center" src="https://github-readme-stats.vercel.app/api?username=gustavorh&show_icons=true&include_all_commits=true&count_private=true&theme=algolia" alt="Hussain's github stats" /></a> | <a href="https://github.com/gustavorh"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavorh&langs_count=10&theme=algolia&layout=compact" /></a> |
 | ------------- | ------------- |
 
 <details align="center">
   <summary>GitHub Trophies 🏆</summary>
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy" target="_blank">
-    <img src="https://github-profile-trophy.vercel.app/?username=hussaino03&column=4&margin-w=5&margin-h=5&theme=darkhub"/>
+    <img src="https://github-profile-trophy.vercel.app/?username=gustavorh&column=4&margin-w=5&margin-h=5&theme=darkhub"/>
   </a>
 </p>
 </details>
