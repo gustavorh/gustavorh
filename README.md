@@ -5,11 +5,11 @@
 
 ## :book: About Me
 
-- 🌱 I’m currently learning **C, Java & JavaScript**
+- 🌱 I’m currently learning **PHP, Python, JavaScript**
 
 - 👨‍💻 All of my projects are available at [My GitHub](https://github.com/gustavorh)
 
-- 📫 How to reach me **gus@gustavorh.dev**
+- 📫 How to reach me **gustavoreyesh17@gmail.com**
 
 ## 🛠️ Languages and Tools
 
@@ -31,7 +31,7 @@
 
 ## 🤔 What I'm currently doing...
 
-- 🔭 I'm currently learning advanced Java and Python.
+- 🔭 I'm currently learning advanced PHP and Python.
 - 🌱 I'm currently taking fourth semester of Civil Engineer.
 
 ## 📫 Contact Me:
