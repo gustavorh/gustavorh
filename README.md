@@ -31,8 +31,8 @@
 
 ## 🤔 What I'm currently doing...
 
-- 🔭 I'm currently learning advanced PHP and Python.
-- 🌱 I'm currently taking fourth semester of Civil Engineer.
+- 🔭 I'm currently learning C# and .NET Core.
+- 🌱 I'm currently taking fifth semester of Civil Engineer.
 
 ## 📫 Contact Me:
 
