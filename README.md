@@ -39,8 +39,8 @@
 You can reach me at the following platforms linked below!
 
 [<img src="https://cdn.simpleicons.org/linkedin/fff" height="40em" align="center" alt="Connect with me @ LinkedIn!" title="Connect with me @ LinkedIn!"/>](https://www.linkedin.com/in/greyesh/)
-[<img src="https://cdn.jsdelivr.net/npm/simple-icons@8.3.0/icons/github.svg" height="40em" align="center" alt="Connect with me @ GitHub!" title="Connect with me @ GitHub!"/>](https://github.com/gustavorh)
-[<img src="https://cdn.jsdelivr.net/npm/simple-icons@8.3.0/icons/gmail.svg" height="45em" align="center" alt="Connect with me @ Gmail!" title="Connect with me @ Gmail!"/>](mailto:gustavoreyesh17@gmail.com)
+[<img src="https://cdn.simpleicons.org/github/fff" height="40em" align="center" alt="Connect with me @ GitHub!" title="Connect with me @ GitHub!"/>](https://github.com/gustavorh)
+[<img src="https://cdn.simpleicons.org/gmail/fff" height="45em" align="center" alt="Connect with me @ Gmail!" title="Connect with me @ Gmail!"/>](mailto:gustavoreyesh17@gmail.com)
 
 ## 📊 GitHub Stats
 
