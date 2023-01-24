@@ -5,7 +5,7 @@
 
 ## :book: About Me
 
-- 🌱 I’m currently learning **PHP, Python, JavaScript**
+- 🌱 I’m currently learning **C# and .NET Core**
 
 - 👨‍💻 All of my projects are available at [My GitHub](https://github.com/gustavorh)
 
@@ -38,13 +38,13 @@
 
 You can reach me at the following platforms linked below!
 
-[<img src="https://cdn.jsdelivr.net/npm/simple-icons@7.12.0/icons/linkedin.svg" height="40em" align="center" alt="Connect with me @ LinkedIn!" title="Connect with me @ LinkedIn!"/>](https://www.linkedin.com/in/greyesh/)
-[<img src="https://cdn.jsdelivr.net/npm/simple-icons@7.12.0/icons/github.svg" height="40em" align="center" alt="Connect with me @ GitHub!" title="Connect with me @ GitHub!"/>](https://github.com/gustavorh)
-[<img src="https://cdn.jsdelivr.net/npm/simple-icons@7.12.0/icons/gmail.svg" height="45em" align="center" alt="Connect with me @ Gmail!" title="Connect with me @ Gmail!"/>](mailto:gustavorh@dev.net)
+[<img src="https://cdn.jsdelivr.net/npm/simple-icons@8.3.0/icons/linkedin.svg" height="40em" align="center" alt="Connect with me @ LinkedIn!" title="Connect with me @ LinkedIn!"/>](https://www.linkedin.com/in/greyesh/)
+[<img src="https://cdn.jsdelivr.net/npm/simple-icons@8.3.0/icons/github.svg" height="40em" align="center" alt="Connect with me @ GitHub!" title="Connect with me @ GitHub!"/>](https://github.com/gustavorh)
+[<img src="https://cdn.jsdelivr.net/npm/simple-icons@8.3.0/icons/gmail.svg" height="45em" align="center" alt="Connect with me @ Gmail!" title="Connect with me @ Gmail!"/>](mailto:gustavoreyesh17@gmail.com)
 
 ## 📊 GitHub Stats
 
-| <a href="https://github.com/gustavorh"><img align="center" src="https://github-readme-stats.vercel.app/api?username=gustavorh&show_icons=true&include_all_commits=true&count_private=true&theme=algolia" alt="Hussain's github stats" /></a> | <a href="https://github.com/gustavorh"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavorh&langs_count=10&theme=algolia&layout=compact" /></a> |
+| <a href="https://github.com/gustavorh"><img align="center" src="https://github-readme-stats.vercel.app/api?username=gustavorh&show_icons=true&include_all_commits=true&count_private=true&theme=algolia" alt="Gustavo's GitHub stats" /></a> | <a href="https://github.com/gustavorh"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavorh&langs_count=10&theme=algolia&layout=compact" /></a> |
 | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 
 <details align="center">
