@@ -44,7 +44,7 @@ You can reach me at the following platforms linked below!
 
 ## 📊 GitHub Stats
 
-| <a href="https://github.com/gustavorh"><img align="center" src="https://github-readme-stats.vercel.app/api?username=gustavorh&show_icons=true&include_all_commits=true&count_private=true&theme=algolia" alt="Gustavo's GitHub stats" /></a> | <a href="https://github.com/gustavorh"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavorh&langs_count=10&theme=algolia&layout=compact" /></a> |
+| <a href="https://github.com/gustavorh"><img align="center" src="https://github-readme-stats.vercel.app/api?username=gustavorh&show_icons=true&include_all_commits=true&count_private=true&theme=algolia" alt="Gustavo's GitHub stats" />   </a> | <a href="https://github.com/gustavorh"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavorh&langs_count=10&theme=algolia&layout=compact" /></a> |
 | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 
 <details align="center">
