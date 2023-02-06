@@ -5,7 +5,7 @@
 
 ## :book: About Me
 
-- 🌱 I’m currently learning **C# and .NET Core**
+- 🌱 I’m currently learning **Java Enterprise and Spring Boot**
 
 - 👨‍💻 All of my projects are available at [My GitHub](https://github.com/gustavorh)
 
@@ -31,7 +31,7 @@
 
 ## 🤔 What I'm currently doing...
 
-- 🔭 I'm currently learning C# and .NET Core.
+- 🔭 I'm currently learning Java Enterprise and Spring Boot.
 - 🌱 I'm currently taking fifth semester of Civil Engineer.
 
 ## 📫 Contact Me:
