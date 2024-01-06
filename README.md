@@ -13,16 +13,19 @@
 
 ## 🛠️ Languages and Tools
 
-![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=c%2B%2B&logoColor=A8B9CC)&nbsp;
-![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;
+![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)&nbsp;
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)&nbsp;
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)&nbsp;
+
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)&nbsp;
 
 <img align="right" alt="gif" src="https://raw.githubusercontent.com/gustavorh/gustavorh/main/img/coding.gif" width="380" height="250" />
 
 ## 🤔 What I'm currently doing...
 
-- 🔭 I'm currently learning .NET Core 7.
+- 🔭 I'm currently learning .NET Core 8.
 - 🌱 I'm currently taking sixth semester of Civil Engineer.
 
 ## 📫 Contact Me:
