@@ -1,5 +1,4 @@
-<h1 align="center">Gustavo 👋</h1>
-<p align="center">
+<p align="left">
   🧑‍💻 Backend Developer • 🌐 Cybersecurity Enthusiast • 🧠 Lifelong Learner
 </p>
 
