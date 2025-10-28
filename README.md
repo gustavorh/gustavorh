@@ -5,7 +5,7 @@
 ---
 
 <p align="left">
-  <a href="https://gustavorh.dev">
+  <a href="https://gustavorh.com">
     <img src="https://img.shields.io/badge/gustavorh.dev-000000?style=for-the-badge&logo=homeassistant&logoColor=white" alt="Website" />
   </a>
   <a href="https://pivotnode.net">
