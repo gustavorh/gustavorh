@@ -63,69 +63,31 @@ aprendiendo:   siempre algo nuevo
 
 ---
 
-## Stack
+## Stack & Herramientas
 
-#### Backend
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=nestjs,spring,nodejs,express,nextjs,react,tailwind,typescript,flutter,dart&perline=10" alt="Backend, frontend y mobile" />
+    <br/>
+    <img src="https://skillicons.dev/icons?i=mysql,postgres,docker,java,python,c,cpp,linux,git,github&perline=10" alt="Datos, lenguajes y devops" />
+  </a>
+</p>
 
-#### Frontend
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-
-#### Mobile
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-
-#### Datos
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Drizzle ORM](https://img.shields.io/badge/Drizzle_ORM-C5F74F?style=for-the-badge&logo=drizzle&logoColor=black)
-
-#### Otros
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
----
-
-## Intereses
-
-<p>
-  <img src="https://img.shields.io/badge/Backend_a_escala-1E293B?style=for-the-badge&logo=serverless&logoColor=white" />
-  <img src="https://img.shields.io/badge/Ciberseguridad-D32F2F?style=for-the-badge&logo=hackthebox&logoColor=white" />
-  <img src="https://img.shields.io/badge/IoT-E7352C?style=for-the-badge&logo=espressif&logoColor=white" />
-  <img src="https://img.shields.io/badge/Arquitectura_de_software-7C3AED?style=for-the-badge&logo=apachekafka&logoColor=white" />
-  <img src="https://img.shields.io/badge/Aprendizaje_continuo-F59E0B?style=for-the-badge&logo=duolingo&logoColor=white" />
+<p align="center">
+  <sub><b>Backend</b> NestJS · Spring Boot · Node.js · Express &nbsp;·&nbsp; <b>Frontend</b> Next.js · React · Tailwind · TypeScript &nbsp;·&nbsp; <b>Mobile</b> Flutter · Dart</sub><br/>
+  <sub><b>Datos</b> MySQL · PostgreSQL · Drizzle ORM &nbsp;·&nbsp; <b>Otros</b> Docker · Java · Python · C/C++ · Linux · Git</sub>
 </p>
 
 ---
 
-## Estadísticas
+## Áreas de interés
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gustavorh&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=gustavorh&theme=tokyonight" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=gustavorh&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=gustavorh&theme=tokyonight" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=gustavorh&theme=tokyonight&utcOffset=-4" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=gustavorh&theme=tokyonight&hide_border=true" />
+  <img src="https://img.shields.io/badge/%E2%9A%A1_Backend_a_escala-0EA5E9?style=for-the-badge&labelColor=0F172A" />
+  <img src="https://img.shields.io/badge/%F0%9F%94%90_Ciberseguridad-EF4444?style=for-the-badge&labelColor=0F172A" />
+  <img src="https://img.shields.io/badge/%F0%9F%93%A1_IoT-22C55E?style=for-the-badge&labelColor=0F172A" />
+  <img src="https://img.shields.io/badge/%F0%9F%8F%9B%EF%B8%8F_Arquitectura-A855F7?style=for-the-badge&labelColor=0F172A" />
+  <img src="https://img.shields.io/badge/%F0%9F%8C%B1_Aprendizaje_continuo-F59E0B?style=for-the-badge&labelColor=0F172A" />
 </p>
 
 ---
