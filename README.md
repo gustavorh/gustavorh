@@ -111,8 +111,21 @@ aprendiendo:   siempre algo nuevo
 ## Estadísticas
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=gustavorh&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavorh&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&exclude_repo=shopify-theme" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gustavorh&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=gustavorh&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=gustavorh&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=gustavorh&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=gustavorh&theme=tokyonight&utcOffset=-4" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=gustavorh&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
