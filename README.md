@@ -1,7 +1,7 @@
 # Gustavo
-`Software Engineer` `Infrastructure`
+`Software Engineer`
 
-> Developing scalable, multi-tenant platforms with a focus on security and performance.
+> Engineering reliable platforms for critical operations.
 
 [Website](https://gustavorh.com) | [Valdren](https://valdren.dev) | [LinkedIn](https://www.linkedin.com/in/greyesh)
 
