@@ -3,6 +3,6 @@
 
 > Engineering reliable platforms for critical operations.
 
-[Website](https://gustavorh.com) | [Valdren](https://valdren.dev) | [LinkedIn](https://www.linkedin.com/in/greyesh)
+[Website](https://gustavorh.com) | [Pirkal](https://pirkal.dev) | [LinkedIn](https://www.linkedin.com/in/greyesh)
 
 ---
