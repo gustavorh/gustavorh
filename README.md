@@ -1,5 +1,4 @@
-# Gustavo
-`Software Engineer`
+# Gustavo | `Software Engineer`
 
 > Engineering reliable platforms for critical operations.
 
